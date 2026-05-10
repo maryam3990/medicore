@@ -1,0 +1,2 @@
+# medicore
+hospital management system
